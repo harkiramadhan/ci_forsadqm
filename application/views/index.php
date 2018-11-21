@@ -1,13 +1,17 @@
 <!-- Section Table -->
-    <div id="" class="container mb-5">
+    <div id="" class="container mb-5 mt-5">
         <div class="section-title col-md-12 ml-auto mr-auto">
             <h3 class="mb-4">Daftar Alumni</h3>
            
         </div>
     </div>
 
+    <div class="container mb-5 mt-5">
+        <input type="text" id="myInput" placeholder="Search...." class="form-control">
+    </div>
+
     <div class="container">
-        <table class="table table-sm table-bordered table-hover">
+        <table id="myTable" class="table table-sm table-bordered table-hover">
             <thead>
                 <tr>
                     <th class="text-center">No</th>
