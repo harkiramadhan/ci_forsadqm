@@ -2,19 +2,19 @@
     <footer class="main-footer py-5">
         <p class="text-muted text-center small p-0 mb-4">&copy; <b>Public Relation</b> — <b>FORSADQM</b> 2018</p>
         <div class="social d-table mx-auto">
-            <a class="twitter mx-3 h4 d-inline-block text-secondary" href="https://twitter.com/DesignRevision" target="_blank">
+            <a class="twitter mx-3 h4 d-inline-block text-secondary" href="https://twitter.com/forsadqm" target="_blank">
                 <i class="fa fa-twitter"></i>
                 <span class="sr-only">View our Twitter Profile</span>
             </a>
-            <a class="facebook mx-3 h4 d-inline-block text-secondary" href="https://www.facebook.com/designrevision" target="_blank">
+            <a class="facebook mx-3 h4 d-inline-block text-secondary" href="#" target="_blank">
                 <i class="fa fa-facebook"></i>
                 <span class="sr-only">View our Facebook Profile<span>
             </a>
-            <a class="instagram mx-3 h4 d-inline-block text-secondary" href="https://github.com/designrevision" target="_blank">
+            <a class="instagram mx-3 h4 d-inline-block text-secondary" href="https://www.instagram.com/forsadqm/" target="_blank">
                 <i class="fa fa-instagram"></i>
                 <span class="sr-only">View our Instagram Profile</span>
             </a>
-            <a href="" class="youtube mx-3 h4 d-inline-block text-secondary">
+            <a href="https://www.youtube.com/channel/UCAYWQdmnNL4nnxgZYk1ROxA" target="_blank" class="youtube mx-3 h4 d-inline-block text-secondary">
                 <i class="fa fa-youtube"></i>
                 <span class="sr-only">View our Youtube Profile</span>
             </a>

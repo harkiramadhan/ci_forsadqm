@@ -35,7 +35,7 @@
                         </a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="https://designrevision.com" id="navbarDropdownMenuLink-7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="http://www.forsadqm.org/" id="navbarDropdownMenuLink-7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Angkatan
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-7">
@@ -48,7 +48,7 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="https://designrevision.com" id="navbarDropdownMenuLink-7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="http://www.forsadqm.org/" id="navbarDropdownMenuLink-7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Konsulat
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-7">
@@ -71,7 +71,7 @@
                 </ul>
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="https://twitter.com/forsadqm" target="_blank">
                             <i class="fa fa-twitter"></i>
                         </a>
                     </li>
@@ -83,13 +83,13 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="https://www.instagram.com/forsadqm/" target="_blank">
                             <i class="fa fa-instagram"></i>
                         </a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCAYWQdmnNL4nnxgZYk1ROxA" target="_blank">
                             <i class="fa fa-youtube"></i>
                         </a>
                     </li>
