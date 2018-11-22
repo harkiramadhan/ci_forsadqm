@@ -25,7 +25,13 @@
                     <td class="text-center"><?php echo $no++ ?></td>
                     <td class="text-center"><?php echo $a->id ?></td>
                     <td class="text-center"><?php echo $a->nama ?></td>
-                    <td class="text-center"><?php echo $a->angkatan ?></td>
+                    <td class="text-center">
+                        <?php foreach($angkatan as $an){ ?>
+                            <?php if($a->angkatan == $an->id): ?>
+                                <?php echo $an->nama ?>
+                            <?php endif; ?>
+                        <?php } ?>
+                    </td>
                     <td class="text-center">
                         <?php foreach($konsulat as $k){ ?>
                             <?php if($a->konsulat == $k->id): ?>
